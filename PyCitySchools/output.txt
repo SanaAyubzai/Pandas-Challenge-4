@@ -1,0 +1,160 @@
+PyCity_Schools_analysis
+----------------------------
+School Analysis Summary
+
+----------------------------
+
+
+District Summary
+    Total Schools Total Students    Total Budget  Average Math Score  \
+0             15         39,170  $24,649,428.00           78.985371   
+
+   Average Reading Score  % Passing Math  % Passing Reading  % Overall Passing  
+0               81.87784       74.980853          85.805463          65.172326  
+----------------------------
+
+Per School Summary
+                       School Type  Total Students Total School Budget  \
+school_name                                                             
+Rodriguez High School    District            3999       $2,547,363.00   
+Figueroa High School     District            2949       $1,884,411.00   
+Huang High School        District            2917       $1,910,635.00   
+Hernandez High School    District            4635       $3,022,020.00   
+Johnson High School      District            4761       $3,094,650.00   
+Ford High School         District            2739       $1,763,916.00   
+Bailey High School       District            4976       $3,124,928.00   
+Holden High School        Charter             427         $248,087.00   
+Shelton High School       Charter            1761       $1,056,600.00   
+Wright High School        Charter            1800       $1,049,400.00   
+Pena High School          Charter             962         $585,858.00   
+Wilson High School        Charter            2283       $1,319,574.00   
+Griffin High School       Charter            1468         $917,500.00   
+Thomas High School        Charter            1635       $1,043,130.00   
+Cabrera High School       Charter            1858       $1,081,356.00   
+
+                      Per Student Budget  Average Math Score  \
+school_name                                                    
+Rodriguez High School            $637.00           76.842711   
+Figueroa High School             $639.00           76.711767   
+Huang High School                $655.00           76.629414   
+Hernandez High School            $652.00           77.289752   
+Johnson High School              $650.00           77.072464   
+Ford High School                 $644.00           77.102592   
+Bailey High School               $628.00           77.048432   
+Holden High School               $581.00           83.803279   
+Shelton High School              $600.00           83.359455   
+Wright High School               $583.00           83.682222   
+Pena High School                 $609.00           83.839917   
+Wilson High School               $578.00           83.274201   
+Griffin High School              $625.00           83.351499   
+Thomas High School               $638.00           83.418349   
+Cabrera High School              $582.00           83.061895   
+
+                       Average Reading Score  % Passing Math  \
+school_name                                                    
+Rodriguez High School              80.744686       66.366592   
+Figueroa High School               81.158020       65.988471   
+Huang High School                  81.182722       65.683922   
+Hernandez High School              80.934412       66.752967   
+Johnson High School                80.966394       66.057551   
+Ford High School                   80.746258       68.309602   
+Bailey High School                 81.033963       66.680064   
+Holden High School                 83.814988       92.505855   
+Shelton High School                83.725724       93.867121   
+Wright High School                 83.955000       93.333333   
+Pena High School                   84.044699       94.594595   
+Wilson High School                 83.989488       93.867718   
+Griffin High School                83.816757       93.392371   
+Thomas High School                 83.848930       93.272171   
+Cabrera High School                83.975780       94.133477   
+
+                       % Passing Reading  % Overall Passing  \
+school_name                                                   
+Rodriguez High School          80.220055          52.988247   
+Figueroa High School           80.739234          53.204476   
+Huang High School              81.316421          53.513884   
+Hernandez High School          80.862999          53.527508   
+Johnson High School            81.222432          53.539172   
+Ford High School               79.299014          54.289887   
+Bailey High School             81.933280          54.642283   
+Holden High School             96.252927          89.227166   
+Shelton High School            95.854628          89.892107   
+Wright High School             96.611111          90.333333   
+Pena High School               95.945946          90.540541   
+Wilson High School             96.539641          90.582567   
+Griffin High School            97.138965          90.599455   
+Thomas High School             97.308869          90.948012   
+Cabrera High School            97.039828          91.334769   
+
+                              School Size  
+school_name                                
+Rodriguez High School   Large (2000-5000)  
+Figueroa High School    Large (2000-5000)  
+Huang High School       Large (2000-5000)  
+Hernandez High School   Large (2000-5000)  
+Johnson High School     Large (2000-5000)  
+Ford High School        Large (2000-5000)  
+Bailey High School      Large (2000-5000)  
+Holden High School          Small (<1000)  
+Shelton High School    Medium (1000-2000)  
+Wright High School     Medium (1000-2000)  
+Pena High School            Small (<1000)  
+Wilson High School      Large (2000-5000)  
+Griffin High School    Medium (1000-2000)  
+Thomas High School     Medium (1000-2000)  
+Cabrera High School    Medium (1000-2000)  
+----------------------------
+
+Spending Summary
+                                Average Math Score  Average Reading Score  \
+Spending Ranges (Per Student)                                              
+<$585                                   83.455399              83.933814   
+$585-630                                81.899826              83.155286   
+$630-645                                78.518855              81.624473   
+$645-680                                76.997210              81.027843   
+
+                               % Passing Math  % Passing Reading  \
+Spending Ranges (Per Student)                                      
+<$585                               93.460096          96.610877   
+$585-630                            87.133538          92.718205   
+$630-645                            73.484209          84.391793   
+$645-680                            66.164813          81.133951   
+
+                               % Overall Passing  
+Spending Ranges (Per Student)                     
+<$585                                  90.369459  
+$585-630                               81.418596  
+$630-645                               62.857656  
+$645-680                               53.526855  
+----------------------------
+
+Size Summary
+                     Average Math Score  Average Reading Score  % Passing Math  \
+School Size                                                                     
+Small (<1000)                83.821598              83.929843       93.550225   
+Medium (1000-2000)           83.374684              83.864438       93.599695   
+Large (2000-5000)            77.746417              81.344493       69.963361   
+
+                    % Passing Reading  % Overall Passing  
+School Size                                               
+Small (<1000)               96.099437          89.883853  
+Medium (1000-2000)          96.790680          90.621535  
+Large (2000-5000)           82.766634          58.286003  
+----------------------------
+
+School Type Summary
+              Average Math Score  Average Reading Score  % Passing Math  \
+School Type                                                              
+Charter               83.473852              83.896421       93.620830   
+District              76.956733              80.966636       66.548453   
+
+             % Passing Reading  % Overall Passing  
+School Type                                        
+Charter              96.586489          90.432244  
+District             80.799062          53.672208  
+----------------------------
+----------------------------
+Conclusion 1: A higher percentage of students pass both math and reading in charter schools compared to district schools (90.3% vs 53.7%)
+Conclusion 2: Students in large schools have lowere average math (77.7%) scores compared to students in small (83.8%) and medium (83.4%).
+Comparison: Students in large schools have lower percentage of students who pass both math and reading (58.29%) compaed to students in small (89.88%) or medium (90.62%)schools.
+----------------------------
